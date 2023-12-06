@@ -14,6 +14,9 @@ Click on the green "Code" button to get a zip which you unload into root DRIVE:\
 
 This patch is currently UNTESTED, please test it!. Report your findings in the thread
 
+The test file is available in the post [Landscape test project](https://forums.unrealengine.com/t/gpu-lightmass-not-working-on-landscape/1371174/8)
+
+
 [posting thread to report testing Landscape patch](https://forums.unrealengine.com/t/gpu-lightmass-not-working-on-landscape/1371174)
 
 So commit has been converted to 5.3.2 source in the file
