@@ -10,3 +10,11 @@ Click on the green "Code" button to get a zip which you unload into root DRIVE:\
 So commit has been converted to 5.3.2 source in the file
 
 in the path Engine\Plugins\Experimental\GPULightmass\Source\GPULightmass\Private\Scene\Scene.cpp
+
+If there is a problem and you want to remove the patch.
+
+The best way is to go into the Epic Games Launcher where you installed 5.3.2
+
+Right click on the yellow down arrow and select "Verify".
+
+This will remove all the patches forr Epic GPULightmass and Luoshuang’s GPULightmass patches
