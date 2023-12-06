@@ -4,7 +4,7 @@ The problem with Landscape has been fixed there is a commit for UE 5.4 which has
 
 [Initial Landscape error post](https://forums.unrealengine.com/t/gpu-lightmass-not-working-on-landscape/1371174)
 
-GPULM: Fix Landscape vertex factory incorrect position component format
+[GPULM: Fix Landscape vertex factory incorrect position component format](https://issues.unrealengine.com/issue/UE-199910)
 
 The binary for this fix has been compiled into UnrealEditor-GPULightmass.dll
 
