@@ -33,4 +33,5 @@ The best way is to go into the Epic Games Launcher where you installed 5.3.2
 
 Right click on the yellow down arrow and select "Verify".
 
-This will remove all the patches forr Epic GPULightmass and Luoshuang’s GPULightmass patches
+This will remove all the patches forr
+Epic GPULightmass and Luoshuang’s GPULightmass patches
