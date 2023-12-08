@@ -1,4 +1,4 @@
-# EpicGPULightmass Landscape Patch for UE 5.3.2
+# Epic GPULightmass Landscape Patch for UE 5.3.2
 
 The problem with Landscape has been fixed there is a commit for UE 5.4 which has been converted to UE 5.3.2
 
