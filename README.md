@@ -10,12 +10,21 @@ The reported fix is below
 
 The binary for this fix has been compiled into UnrealEditor-GPULightmass.dll
 
-Click on the green "Code" button to get a zip which you unload into root DRIVE:\Program Files\Epic Games\UE_5.3
+Click on the green "Code" button to get a zip which you unload
+
+into root DRIVE:\Program Files\Epic Games\UE_5.3
 
 This patch is currently UNTESTED, one user says it works! please test it!. Report your findings in the thread
 
-The test file is available in the post [Landscape test project](https://forums.unrealengine.com/t/gpu-lightmass-not-working-on-landscape/1371174/8)
+The test file is available in the post 
 
+[Landscape test project](https://forums.unrealengine.com/t/gpu-lightmass-not-working-on-landscape/1371174/8)
+
+Remember to check DXRI is set to DX12 and SM6 in your Project setting 
+
+which are needed for all projects using EPIC GPU Lightmass (EGPU) 
+
+The SM5 shaders may need to be temporarily disabled for the projects shaders to be compiled in SM6
 
 [posting thread to report testing Landscape patch](https://forums.unrealengine.com/t/gpu-lightmass-not-working-on-landscape/1371174)
 
