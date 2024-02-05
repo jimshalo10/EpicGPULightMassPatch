@@ -26,6 +26,10 @@ which are needed for all projects using EPIC GPU Lightmass (EGPU)
 
 The SM5 shaders may need to be temporarily disabled for the projects shaders to be compiled in SM6
 
+Recently feedback has suggested possibly turning off Lightmass Compression
+
+to improve the quality of the Lightmass output
+
 [posting thread to report testing Landscape patch](https://forums.unrealengine.com/t/gpu-lightmass-not-working-on-landscape/1371174)
 
 So commit has been converted to 5.3.2 source in the file
